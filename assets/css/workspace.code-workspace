@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Lessons"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\rozanova"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Training"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HW"
+	}
+}
